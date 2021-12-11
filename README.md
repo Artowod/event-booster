@@ -1,4 +1,4 @@
-# "Event-booster" - Final team-project of JavaScript module.
+# "Event-booster" - Final team-project of JavaScript module (How it looks like: http://artowod.github.io/event-booster/ ).
 
 ## Main technologies: JS + SASS/CSS
 
