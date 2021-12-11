@@ -9,4 +9,3 @@ Events DB on app.ticketmaster.com using async access via axios.
 
 I was working on Pagination part, modal windows and was helping others with axios/fetch management.
 
-And i was SCRUM master of our dev team too.
