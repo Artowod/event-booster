@@ -1,4 +1,6 @@
-# "Event-booster" - Final team-project of JavaScript module (How it looks like: http://artowod.github.io/event-booster/ ).
+# "Event-booster" - Final team-project of JavaScript module.
+
+## It is hosted here: http://artowod.github.io/event-booster/
 
 ## Main technologies: JS + SASS/CSS
 
